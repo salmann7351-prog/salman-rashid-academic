@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+Sitemap: https://salman-rashid-academic.vercel.app/sitemap.xml

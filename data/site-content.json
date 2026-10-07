@@ -1,0 +1,226 @@
+{
+  "profile": {
+    "name": "Salman Rashid",
+    "role": "ECONOMIST & POLICY RESEARCHER",
+    "kicker": "Macroeconomics · Monetary Policy · Applied Econometrics · Policy Analysis",
+    "location": "Islamabad, Pakistan",
+    "positioning": [
+      "I am an economist and policy researcher with a background in macroeconomics, monetary policy, and international relations theory. My work uses econometric methods, principally VAR and VECM modeling in Stata and EViews, alongside structured qualitative methods, including codebook thematic analysis and AI-assisted research workflows, to study how monetary policy moves through Pakistan’s economy and how the institutions that set it explain their own reasoning.",
+      "My current research centers on monetary policy transmission and central bank communication, extending toward industrial heterogeneity, and, over time, toward the wider technological, geopolitical, and maritime forces that shape how economic policy is made and how its consequences unfold across the economy."
+    ],
+    "openTo": "Research-oriented roles in economic consulting, central banking, international organizations, and think tanks, and exploring PhD opportunities in Economics. Open to remote, onsite, and hybrid work, worldwide."
+  },
+  "eag": {
+    "title": "Associate Member, Economic Advisory Group (EAG)",
+    "date": "April 2026 – March 2027 · Islamabad",
+    "summary": "A year-long mentored research programme focused on macroeconomic and policy research, with responsibility for developing four policy briefs.",
+    "firstBrief": "The first policy brief, Diagnosing Inflation: The SBP Monetary Policy Committee’s Causal Narratives and Their Empirical Fit (2022–2026), has been completed and presented to the EAG Committee. Revisions were requested, including condensing the document to 2,000–3,000 words.",
+    "work": "Contributing research, evidence synthesis, and analytical inputs to policy-oriented discussions within the programme."
+  },
+  "researchInterests": [
+    {
+      "title": "Macroeconomics & Monetary Policy",
+      "description": "Building on my work in monetary transmission, structural breaks, inflation dynamics, and central-bank communication, I am developing an interest in modern macroeconomic modelling, including New Keynesian DSGE frameworks, open-economy and financial-friction models, and heterogeneous-agent approaches such as TANK and HANK. I am particularly interested in using these frameworks to study monetary transmission, distributional effects, and the interaction between monetary policy and real economic behaviour.",
+      "icon": "chart"
+    },
+    {
+      "title": "AI, Technology & Labour",
+      "description": "The economic effects of artificial intelligence on productivity, employment, labour demand, research practices, and economic decision-making, with particular interest in AI adoption and the changing economics of knowledge work.",
+      "icon": "chip"
+    },
+    {
+      "title": "Political Economy & Geoeconomics",
+      "description": "How institutions, incentives, social cohesion, state capacity, external shocks, and international economic forces shape economic behaviour, policy, and development.",
+      "icon": "globe"
+    },
+    {
+      "title": "Maritime Economics & Conflict",
+      "description": "How geopolitical conflict and disruption affect trade routes, shipping, exchange rates, imported inputs, production costs, and macroeconomic stability.",
+      "icon": "ship"
+    }
+  ],
+  "researchProjects": [
+    {
+      "id": "monetary-transmission",
+      "number": "01",
+      "title": "Monetary Policy Transmission to Pakistan’s Manufacturing Sector: A Structural Break-Adjusted Vector Error Correction Analysis",
+      "shortTitle": "Monetary Policy Transmission to Pakistan’s Manufacturing Sector",
+      "status": "Revise and resubmit invited",
+      "statusClass": "green",
+      "kicker": "Journal article",
+      "meta": "Journal of Policy Modeling (SSCI, Q1) · Lead author, with Dr. Ayesha Nazuk",
+      "summary": "Empirical research on monetary policy transmission to Pakistan’s manufacturing sector using a structural break-adjusted VECM, with exchange-rate, interest-rate, and credit channels examined together.",
+      "tags": [
+        "Monetary Policy",
+        "Transmission",
+        "Pakistan"
+      ],
+      "page": "research-monetary-transmission.html"
+    },
+    {
+      "id": "diagnosing-inflation",
+      "number": "02",
+      "title": "Diagnosing Inflation: The SBP Monetary Policy Committee’s Causal Narratives and Their Empirical Fit (2022–2026)",
+      "shortTitle": "Diagnosing Inflation",
+      "status": "Under EAG review",
+      "statusClass": "amber",
+      "kicker": "Policy brief",
+      "meta": "Economic Advisory Group · Presented to the EAG Committee",
+      "summary": "A codebook thematic analysis of 36 SBP Monetary Policy Statements examining how the Committee explains inflation, which causes it emphasises or downplays, and how stated diagnoses compare with subsequent inflation dynamics.",
+      "tags": [
+        "Central Banking",
+        "Communication",
+        "Inflation"
+      ],
+      "page": "research-diagnosing-inflation.html"
+    },
+    {
+      "id": "heterogeneous-transmission",
+      "number": "03",
+      "title": "A Theoretical and Empirical Account of Heterogeneous Monetary Transmission across Pakistan’s Large-Scale Manufacturing Industries",
+      "shortTitle": "Heterogeneous Monetary Transmission across Pakistan’s Manufacturing Industries",
+      "status": "Research in progress",
+      "statusClass": "blue",
+      "kicker": "Research project",
+      "meta": "Salman Rashid · Industry-level VECM estimation in progress",
+      "summary": "A theoretical and empirical study of why manufacturing industries respond differently to common monetary and macroeconomic shocks, using observable industry characteristics and a common VECM framework.",
+      "tags": [
+        "Heterogeneity",
+        "Manufacturing",
+        "Monetary Policy"
+      ],
+      "page": "research-heterogeneous-transmission.html"
+    }
+  ],
+  "recommendations": {
+    "allowSubmissions": false,
+    "items": []
+  },
+  "contact": {
+    "email": "salmann7351@gmail.com",
+    "linkedin": "https://linkedin.com/in/salman-rashid7351",
+    "location": "Islamabad, Pakistan"
+  },
+  "cv": {
+    "summary": "Economist and applied researcher with an MS in Economics from NUST, with research interests in macroeconomics, monetary policy, industrial heterogeneity, political economy, and applied economic research.",
+    "experience": [
+      {
+        "title": "Associate Member, Economic Advisory Group (EAG)",
+        "date": "April 2026 – March 2027 | Islamabad, Pakistan",
+        "bullets": [
+          "Contributing to a year-long mentored research programme focused on macroeconomic and policy research, with responsibility for developing four policy briefs.",
+          "Completed the first policy brief, Diagnosing Inflation, and presented it to the EAG Committee; revisions were requested, including condensing the document to 2,000–3,000 words.",
+          "Contributing research, evidence synthesis, and analytical inputs to policy-oriented discussions within the programme."
+        ]
+      },
+      {
+        "title": "Research Intern, AI for Social Sciences, SINES, NUST",
+        "date": "May 2025 – January 2026 | Islamabad, Pakistan",
+        "bullets": [
+          "Supported data preparation, exploratory analysis, research documentation, and AI-assisted social science research activities.",
+          "Contributed to the development of an R&D dashboard using Tableau and data from the Pakistan Patent Office and Web of Science.",
+          "Completed hands-on training in Power BI, data analytics, and prompt engineering."
+        ]
+      },
+      {
+        "title": "Journal Research Project: Monetary Policy Transmission to Pakistan’s Manufacturing Sector",
+        "date": "Lead author, with Dr. Ayesha Nazuk, NUST | 2026",
+        "bullets": [
+          "Conducted empirical research on monetary policy transmission to Pakistan’s manufacturing sector using a structural break-adjusted VECM.",
+          "Manuscript submitted to the Journal of Policy Modeling; revise and resubmit invited."
+        ]
+      },
+      {
+        "title": "MS Research / Thesis, NUST",
+        "date": "2021 – 2025 | Islamabad, Pakistan",
+        "bullets": [
+          "Conducted disaggregated time-series research on monetary policy transmission across seven large-scale manufacturing industries in Pakistan using VAR methods.",
+          "Examined differences in industry responses to monetary and macroeconomic shocks in relation to trade exposure, capital intensity, and industrial linkages."
+        ]
+      }
+    ],
+    "additionalExperience": [
+      {
+        "title": "Teaching Assistant, NUST",
+        "date": "September 2022 – September 2023 | Islamabad, Pakistan",
+        "bullets": [
+          "Delivered undergraduate economics tutorials and prepared lecture materials, quizzes, and assignments.",
+          "Managed grading and student performance tracking across multiple course sections."
+        ]
+      },
+      {
+        "title": "Assistant Manager (Finance), ABK Capital (Pvt.) Ltd.",
+        "date": "November 2019 – December 2020 | Islamabad, Pakistan",
+        "bullets": [
+          "Prepared and reviewed monthly financial reports, budgets, and forecasts; managed accounts payable and receivable.",
+          "Built Excel/VBA-based reporting automation to reduce manual reporting time and errors."
+        ]
+      },
+      {
+        "title": "Public Administration Intern, PMYTS, Deputy Commissioner’s Office",
+        "date": "June 2017 – May 2018 | Dera Ismail Khan, Pakistan",
+        "bullets": [
+          "Primarily placed at the Mufti Mehmood Public Library & District Archives, supporting the Drawing & Disbursing Officer with fund disbursement, procurement records, accounts, and financial documentation.",
+          "Also contributed to data management and administrative operations at the Deputy Commissioner’s Office."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "title": "MS in Economics, National University of Sciences and Technology (NUST), Islamabad",
+        "date": "September 2021 – July 2025 · GPA: 3.35/4.00 · Degree conferred: 11 July 2025",
+        "detail": "Thesis: Assessing the Effectiveness of Monetary Policy on the Manufacturing Sector in Pakistan: A Disaggregated Analysis. Supervisor: Dr. Ather Maqsood Ahmed."
+      },
+      {
+        "title": "Advanced Diploma in English Language, National University of Modern Languages (NUML), Islamabad",
+        "date": "January 2016 – January 2017",
+        "detail": "Grade B (70.50%)."
+      },
+      {
+        "title": "MSc in Economics, International Islamic University, Islamabad",
+        "date": "August 2013 – July 2015 · GPA: 3.22/4.00",
+        "detail": "Coursework included microeconomics, macroeconomics, econometrics, development economics, international trade, and monetary economics."
+      },
+      {
+        "title": "BA, Economics & Statistics, Gomal University, Dera Ismail Khan",
+        "date": "April 2011 – May 2013",
+        "detail": ""
+      }
+    ],
+    "outputs": [
+      {
+        "title": "Monetary Policy Transmission to Pakistan’s Manufacturing Sector: A Structural Break-Adjusted Vector Error Correction Analysis",
+        "meta": "Journal of Policy Modeling (SSCI, Q1) · Revise and resubmit invited · Lead author, with Dr. Ayesha Nazuk"
+      },
+      {
+        "title": "Diagnosing Inflation: The SBP Monetary Policy Committee’s Causal Narratives and Their Empirical Fit (2022–2026)",
+        "meta": "Policy brief · Under EAG review · Economic Advisory Group"
+      },
+      {
+        "title": "A Theoretical and Empirical Account of Heterogeneous Monetary Transmission across Pakistan’s Large-Scale Manufacturing Industries",
+        "meta": "Research project · Work in progress"
+      },
+      {
+        "title": "Assessing the Effectiveness of Monetary Policy on the Manufacturing Sector in Pakistan: A Disaggregated Analysis",
+        "meta": "MS Thesis, NUST, 2025 · Supervisor: Dr. Ather Maqsood Ahmed"
+      }
+    ],
+    "certifications": [
+      "Stata for International Trade Statistics, S3H, NUST - September 2024",
+      "Chinese Language HSK-1 & HSK-2, S3H, NUST",
+      "Founders Edge (Cohort 3), ASPIRE Pakistan - Entrepreneurship and professional development programme, December 2025",
+      "Understanding International Relations Theories, HSE University"
+    ],
+    "honours": [
+      "EAG Associate Programme, 2025 Cohort - Economic Advisory Group & PRIME Institute. Competitively selected nationally; workshops covered monetary policy, capital flows, and debt sustainability."
+    ],
+    "skills": {
+      "Econometrics & Policy Research": "Applied econometrics · Stata · EViews · R (basic) · OxMetrics · VAR/VECM modelling · time-series analysis · structural-break analysis · cointegration analysis · monetary policy analysis · policy research",
+      "Data & Analytics": "Power BI · Advanced Excel · Excel VBA · Power Query · Tableau · data cleaning · data management · data analysis and visualization",
+      "Qualitative & Policy Research": "Codebook thematic analysis · structured qualitative analysis · policy brief writing · research writing · AI-assisted research workflows",
+      "Finance & Accounting": "Financial reporting · financial analysis · budgeting and forecasting · financial modelling · bookkeeping · accounts payable/receivable",
+      "Other": "International trade and trade-data analysis · public administration"
+    },
+    "languages": "English (C1 proficiency) · Urdu (C2) · Pashto (mother tongue) · Chinese (A1/A2)"
+  }
+}

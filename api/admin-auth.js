@@ -1,0 +1,2 @@
+const {makeSession,cookie}=require('./_lib/auth');
+module.exports=async (req,res)=>{if(req.method!=='POST')return res.status(405).json({error:'Method not allowed'}); if(req.body?.logout){res.setHeader('Set-Cookie',cookie('',0));return res.status(200).json({ok:true})} if(!process.env.ADMIN_PASSWORD||req.body?.password!==process.env.ADMIN_PASSWORD)return res.status(401).json({error:'Invalid password'}); res.setHeader('Set-Cookie',cookie(makeSession(),60*60*8)); return res.status(200).json({ok:true})};

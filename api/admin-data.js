@@ -1,0 +1,2 @@
+const {verifySession}=require('./_lib/auth'); const {readJson}=require('./_lib/github');
+module.exports=async(req,res)=>{if(req.method!=='POST'||!verifySession(req))return res.status(401).json({error:'Unauthorized'}); try{const c=await readJson('data/site-content.json'); let pending=[]; try{pending=(await readJson('data/recommendations-pending.json')).data}catch(e){} return res.status(200).json({content:c.data,pending});}catch(e){return res.status(500).json({error:e.message})}};
